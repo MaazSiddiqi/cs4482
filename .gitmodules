@@ -1,0 +1,3 @@
+[submodule "cs4482"]
+	path = cs4482
+	url = https://github.com/MaazSiddiqi/cs4482.git
